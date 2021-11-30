@@ -13,6 +13,7 @@ kafka-single-node-docker-compose folder.
 * Consumers: Pull vs. Push: http://kafka.apache.org/documentation.html#design_pull
 * Replication in Kafka - in-sync replica set (ISR): https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-2-data-replication/
 * Kafka Storage Internals: https://medium.com/@darefamuyiwa/kafka-storage-internals-36606917629c
+* Kafka Optimized Data Transfer : https://andriymz.medium.com/how-kafka-is-so-performant-if-it-writes-to-disk-bd628ec15555
 
 # Kafka Streams
 * Kafka Streams vs. Kafka consumer: https://www.baeldung.com/java-kafka-streams-vs-kafka-consumer
